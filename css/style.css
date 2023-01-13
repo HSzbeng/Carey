@@ -1,0 +1,23 @@
+body {
+    margin: 0 auto;
+    padding: 0%;
+    width: 250px;
+    height: 600px;
+    background-color: aqua;
+}
+
+.button-aktif {
+    padding: 10px 40px;
+    margin-top: 250px;
+    float: left;
+    border-radius: 10px;
+    font-family: 'pacifico', cursive;
+    font-size: 25px;
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+.orange {
+    background-color: orangered;
+    border-bottom: 5px solid orangered;
+}
